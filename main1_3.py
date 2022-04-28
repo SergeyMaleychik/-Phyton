@@ -1,0 +1,6 @@
+a = input(('Введите число: '))
+s = int(a)
+s1 = str(s) + str(s)
+s2 = str(s) + str(s) + str(s)
+x = int(s) + int(s1) + int(s2)
+print(x)
